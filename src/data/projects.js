@@ -1,6 +1,14 @@
 export const projects = [
   {
     id: 1,
+    title: "Recruting & ATS Platform",
+    description: "Full-stack MERN application...",
+    category: "Full stack application",
+    technologies: ["MongoDB", "Express.js", "React", "Node.js"],
+    projectUrl: "https://recruting-and-ats-platform-client.onrender.com"
+  },
+  {
+    id: 2,
     title: "Resume Builder",
     description: "MERN-based Resume Builder app...",
     category: "Full stack application",
@@ -9,7 +17,7 @@ export const projects = [
   },
 
   {
-    id: 2,
+    id: 3,
     title: "Event Listing Platform",
     description: "Full-stack MERN application...",
     category: "Full stack application",
@@ -18,7 +26,7 @@ export const projects = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "Course Management App",
     description: "Node.js backend with JWT auth...",
     category: "Back-end application",
@@ -27,7 +35,7 @@ export const projects = [
   },
 
   {
-    id: 4,
+    id: 5,
     title: "Task management app",
     description: "Figma → HTML/CSS conversion...",
     category: "Design to Web Conversion",
@@ -36,7 +44,7 @@ export const projects = [
   },
 
   {
-    id: 5,
+    id: 6,
     title: "Blog Management",
     description: "Backend CRUD system...",
     category: "Back-end application",
@@ -45,7 +53,7 @@ export const projects = [
   },
 
   {
-    id: 6,
+    id: 7,
     title: "Video Downloader App Design",
     description: "Mobile UI/UX design...",
     category: "UI/UX Design",
@@ -54,7 +62,7 @@ export const projects = [
   },
 
   {
-    id: 7,
+    id: 8,
     title: "Ecommerce cart page",
     description: "Figma → static web page...",
     category: "Design to Web Conversion",
@@ -63,7 +71,7 @@ export const projects = [
   },
 
   {
-    id: 8,
+    id: 9,
     title: "Travel app design",
     description: "Mobile UI/UX design...",
     category: "UI/UX Design",
@@ -72,7 +80,7 @@ export const projects = [
   },
 
   {
-    id: 9,
+    id: 10,
     title: "E-learning website design",
     description: "Responsive UI design...",
     category: "UI/UX Design",
@@ -81,7 +89,7 @@ export const projects = [
   },
 
   {
-    id: 10,
+    id: 11,
     title: "Price plan designs",
     description: "Pricing UI design...",
     category: "UI/UX Design",
@@ -90,7 +98,7 @@ export const projects = [
   },
 
   {
-    id: 11,
+    id: 12,
     title: "Cottage home care website",
     description: "UI/UX design...",
     category: "UI/UX Design",
@@ -99,7 +107,7 @@ export const projects = [
   },
 
   {
-    id: 12,
+    id: 13,
     title: "Fashion web app design",
     description: "Responsive UI design...",
     category: "UI/UX Design",
@@ -108,7 +116,7 @@ export const projects = [
   },
 
   {
-    id: 13,
+    id: 14,
     title: "Operational Dashboard",
     description: "Dashboard UI design...",
     category: "UI/UX Design",
@@ -117,7 +125,7 @@ export const projects = [
   },
 
   {
-    id: 14,
+    id: 15,
     title: "Product Performance Dashboard",
     description: "Data visualization UI...",
     category: "UI/UX Design",
@@ -126,7 +134,7 @@ export const projects = [
   },
 
   {
-    id: 15,
+    id: 16,
     title: "Chat App Wireframe",
     description: "Wireframe design...",
     category: "UI/UX Design",
@@ -135,7 +143,7 @@ export const projects = [
   },
 
   {
-    id: 16,
+    id: 17,
     title: "Contact us page",
     description: "Simple UI design...",
     category: "UI/UX Design",
